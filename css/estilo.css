@@ -40,4 +40,10 @@ th{
 div td li{
     color:black;
 }
+footer{
+    color:white;
+    font-size: 10px;
+    text-align: center;
+    background-color: black;
+}
 
